@@ -20,7 +20,7 @@ export const Projects = () => {
         "myCode is a dynamic MERN stack web application that helps with code management, secure storage, rapid retrieval empowering programmers of all skill levels to streamline their coding experience.",
       imgUrl: mycode,
       github: "https://github.com/kezdetphia/mern-mycode-front",
-      live: "https://deluxe-froyo-98610e.netlify.app/",
+      live: "https://mycodemanager.netlify.app/",
     },
     {
       title: "T-100 Fitness",
@@ -36,6 +36,7 @@ export const Projects = () => {
         "ChatMe is a sophisticated MERN stack application that empowers users to engage in real-time conversations with each other using WebSocket.",
       imgUrl: chatme,
       github: "https://github.com/kezdetphia/MERN-ChatApp",
+      live: "https://github.com/kezdetphia/MERN-ChatApp",
     },
     {
       title: "The Phone Shop",
@@ -43,6 +44,7 @@ export const Projects = () => {
         "The Phone Shop project is a Python and Django-based application designed for managing phone sales and inventory. Leverages PostgreSQL for robust database management.",
       imgUrl: phoneshop,
       github: "https://github.com/Temeculous/phone-shop",
+      live: "https://github.com/Temeculous/phone-shop",
     },
     {
       title: "Football Pitch",
@@ -50,6 +52,7 @@ export const Projects = () => {
         "Manage and customize your dream squad's dynamics with Football Pitch. Harnessing MongoDB, Express, and EJS.",
       imgUrl: footballpitch,
       github: "https://github.com/kezdetphia/football-fullstack",
+      live: "https://github.com/kezdetphia/football-fullstack",
     },
   ];
 
